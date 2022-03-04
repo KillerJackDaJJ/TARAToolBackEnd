@@ -1,0 +1,6 @@
+*.log
+*.pyc
+*.xml
+.idea
+*.cpython-38.pyc
+*.cfg
